@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\x\Desktop\SDL2_Project_SelfContained\SDL2_Project_SelfContained\main.cpp(199,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\x\Desktop\SDL2_Project_SelfContained\SDL2_Project_SelfContained\main.cpp(301,77): warning C4018: '>': signed/unsigned mismatch
+  SDL2_Project_SelfContained.vcxproj -> C:\Users\x\Desktop\SDL2_Project_SelfContained\x64\Debug\SDL2_Project_SelfContained.exe
