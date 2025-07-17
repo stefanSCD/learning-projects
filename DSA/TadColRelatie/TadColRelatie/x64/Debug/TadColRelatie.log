@@ -1,0 +1,10 @@
+﻿  Colectie.cpp
+C:\Users\x\Desktop\facultate\DSA\TadColRelatie\TadColRelatie\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Colectie.cpp')
+  
+  IteratorColectie.cpp
+C:\Users\x\Desktop\facultate\DSA\TadColRelatie\TadColRelatie\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'IteratorColectie.cpp')
+  
+  Generating Code...
+  TadColRelatie.vcxproj -> C:\Users\x\Desktop\facultate\DSA\TadColRelatie\x64\Debug\TadColRelatie.exe

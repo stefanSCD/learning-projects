@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|solutionrelative:TADListaIndexata\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\IteratorLI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|solutionrelative:TADListaIndexata\\IteratorLI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\LI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B831812-7BD6-4CDF-AEB7-7CA4A0432ABC}|TADListaIndexata\\TADListaIndexata.vcxproj|solutionrelative:TADListaIndexata\\LI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IteratorLI.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\IteratorLI.cpp",
+              "RelativeDocumentMoniker": "TADListaIndexata\\IteratorLI.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\IteratorLI.cpp",
+              "RelativeToolTip": "TADListaIndexata\\IteratorLI.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T05:15:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestExtins.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\TestExtins.cpp",
+              "RelativeDocumentMoniker": "TADListaIndexata\\TestExtins.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\TestExtins.cpp",
+              "RelativeToolTip": "TADListaIndexata\\TestExtins.cpp",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwJMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T05:07:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LI.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\LI.cpp",
+              "RelativeDocumentMoniker": "TADListaIndexata\\LI.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\facultate\\DSA\\TADListaIndexata\\TADListaIndexata\\LI.cpp",
+              "RelativeToolTip": "TADListaIndexata\\LI.cpp",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAL4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T14:46:04.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

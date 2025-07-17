@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Matrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\Matrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\TestExtins.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A10C8EEC-383E-4DC4-834E-9CC99C1C49A3}|TADMatrice\\TADMatrice.vcxproj|solutionrelative:TADMatrice\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestExtins.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.cpp",
+              "RelativeDocumentMoniker": "TADMatrice\\TestExtins.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.cpp",
+              "RelativeToolTip": "TADMatrice\\TestExtins.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwIoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:14:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrice.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Matrice.cpp",
+              "RelativeDocumentMoniker": "TADMatrice\\Matrice.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Matrice.cpp",
+              "RelativeToolTip": "TADMatrice\\Matrice.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:06:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iterator.h",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.h",
+              "RelativeDocumentMoniker": "TADMatrice\\Iterator.h",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.h",
+              "RelativeToolTip": "TADMatrice\\Iterator.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T06:35:34.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iterator.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.cpp",
+              "RelativeDocumentMoniker": "TADMatrice\\Iterator.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Iterator.cpp",
+              "RelativeToolTip": "TADMatrice\\Iterator.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T06:40:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Vector.cpp",
+              "RelativeDocumentMoniker": "TADMatrice\\Vector.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\Vector.cpp",
+              "RelativeToolTip": "TADMatrice\\Vector.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:07:27.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestExtins.h",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.h",
+              "RelativeDocumentMoniker": "TADMatrice\\TestExtins.h",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\TestExtins.h",
+              "RelativeToolTip": "TADMatrice\\TestExtins.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T07:34:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\App.cpp",
+              "RelativeDocumentMoniker": "TADMatrice\\App.cpp",
+              "ToolTip": "C:\\Users\\x\\Desktop\\DSA\\TADmatrice\\TADMatrice\\TADMatrice\\App.cpp",
+              "RelativeToolTip": "TADMatrice\\App.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T08:58:15.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
